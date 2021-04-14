@@ -194,8 +194,7 @@ void Restore(IfstreamHangler& old_file, std::ifstream& in_file, OfstreamHangler&
             in_file >> byte >> byte;
             new_file.PutByte(byte);
         } else if (type == "d") {
-            ++old_offset;
-            old_file.GetByte();
+            continue;
         } else if (type == "i") {
             in_file >> byte;
             new_file.PutByte(byte);
