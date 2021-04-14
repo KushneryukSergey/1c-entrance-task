@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/skushneryuk/study/departments/1c_cis/task/main.cpp
+algorithm
+-
+cstring
+-
+fstream
+-
+iostream
+-
+iterator
+-
+string
+-
+tuple
+-
+vector
+-
+

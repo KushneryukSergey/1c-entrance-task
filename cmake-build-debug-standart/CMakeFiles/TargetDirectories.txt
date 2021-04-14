@@ -1,0 +1,3 @@
+/home/skushneryuk/study/departments/1c_cis/task/cmake-build-debug-standart/CMakeFiles/rebuild_cache.dir
+/home/skushneryuk/study/departments/1c_cis/task/cmake-build-debug-standart/CMakeFiles/edit_cache.dir
+/home/skushneryuk/study/departments/1c_cis/task/cmake-build-debug-standart/CMakeFiles/main.exe.dir
